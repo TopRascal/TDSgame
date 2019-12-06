@@ -1,6 +1,8 @@
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 1E4B8647
-/// @DnDArgument : "soundid" "snd_pistol"
-/// @DnDSaveInfo : "soundid" "f19d7e2c-10c5-45bc-85bd-9e419a0f7cb3"
+// @desc Spawn Bullet
+
+bullet = instance_create_layer(x,y, "Instances", obj_bullet);
+
+bullet.direction = point_direction(x,y, mouse_x, mouse_y);
+bullet.speed = 20;
+
 audio_play_sound(snd_pistol, 0, 0);
