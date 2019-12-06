@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "292aa694-8988-4785-b12b-aad36e158ec8",
+            "Value": {
+                "id": "727e0b44-248d-4be1-bd27-258b035c143a",
+                "resourcePath": "sprites\\spr_pistolarm\\spr_pistolarm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "297c67d8-480f-4c5f-aaa4-d18760bde6b9",
             "Value": {
                 "id": "31f2c837-0872-43ab-b2d1-2333f7982c2b",
@@ -135,11 +143,27 @@
             }
         },
         {
+            "Key": "516abd25-60b1-4993-a529-c750aa39e517",
+            "Value": {
+                "id": "874fbc3f-cf73-4ca7-aabc-cc456fe86a0e",
+                "resourcePath": "sounds\\snd_hit\\snd_hit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "643ac3a5-6815-4a19-a96b-af2b678504bc",
             "Value": {
                 "id": "34469023-77ed-467c-be77-a827b69d3a56",
                 "resourcePath": "objects\\obj_pistol\\obj_pistol.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6ee94616-5136-4773-b014-185d17b9334e",
+            "Value": {
+                "id": "b6e83ceb-d2c2-42ef-ba6f-0aade2aa1484",
+                "resourcePath": "sprites\\spr_guy\\spr_guy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
