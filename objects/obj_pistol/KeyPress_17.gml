@@ -1,6 +1,6 @@
-// @desc Spawn Bullet
+///@desc Spawn Bullet
 
-if pistol_pickup = 1{
+if pistol_pickup = 1 {
 
 bullet = instance_create_layer(x,y, "Instances", obj_bullet);
 

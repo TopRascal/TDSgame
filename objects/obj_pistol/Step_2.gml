@@ -1,4 +1,4 @@
-/// Follow Player & Mouse
+///@desc Follow Player & Mouse
  
 if pistol_pickup = 1 {
 		 x = obj_plr.x;
