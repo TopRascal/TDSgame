@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "af3ded38-ce1f-476d-bf85-f22001b1857d",
+            "Value": {
+                "id": "2979e992-752a-4e86-9496-9d3c0ce42b69",
+                "resourcePath": "objects\\obj_restart\\obj_restart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b2644701-26af-488f-adc2-eefe9843c5cf",
             "Value": {
                 "id": "c1a49159-1285-4221-b9c2-ee25b0ec3cc3",
@@ -324,6 +332,14 @@
                 "id": "59e74b7a-ccbc-4415-b096-940fe580dda0",
                 "resourcePath": "objects\\obj_R_wall\\obj_R_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d81254dd-29c3-4bd0-b98e-84515432a427",
+            "Value": {
+                "id": "f7f33b4c-8beb-4919-a18f-3ac5e8dab614",
+                "resourcePath": "sounds\\snd_pistol_pickup\\snd_pistol_pickup.yy",
+                "resourceType": "GMSound"
             }
         },
         {

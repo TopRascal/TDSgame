@@ -1,0 +1,1 @@
+pistol_pickup = 0;
