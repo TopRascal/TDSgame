@@ -1,8 +1,8 @@
 /// @desc Drop
 
-var l02DA8472_0;
-l02DA8472_0 = keyboard_check(vk_shift);
-if (l02DA8472_0)
+var l2A815286_0;
+l2A815286_0 = keyboard_check(vk_alt);
+if (l2A815286_0)
 {
 	var l4FF11AA4_0;
 	l4FF11AA4_0 = keyboard_check_pressed(ord("E"));
