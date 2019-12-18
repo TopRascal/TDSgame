@@ -22,4 +22,4 @@ if (!keyboard_check(ord("D")) && !keyboard_check(ord("W")) && !keyboard_check(or
 	friction = 0;
 }
 
-if (speed > 5) speed = 5;
+if (speed > 2.5) speed = 2.5;

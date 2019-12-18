@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "a50607ea-9d70-4efb-8552-75dca3a36668",
+            "Value": {
+                "id": "628d67bd-05ca-4514-baa2-37ea3273a699",
+                "resourcePath": "sounds\\snd_shotgun_reload\\snd_shotgun_reload.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "9324e300-598a-4c5b-903f-4101fdb2ba12",
