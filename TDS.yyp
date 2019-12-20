@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "3f1bd90d-7f47-46f8-9aa5-159fbbf87ee0",
+            "Value": {
+                "id": "48afb770-ac20-44c8-a110-fb16429583cb",
+                "resourcePath": "objects\\obj_smg\\obj_smg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "460a32b5-8f89-43c8-9e71-0c2c942ee015",
             "Value": {
                 "id": "39a84ea7-6df1-493f-a3d9-763b3d05569b",
