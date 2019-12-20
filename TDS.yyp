@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3db59de9-53be-4948-b2ff-3244ec8187fb",
+            "Value": {
+                "id": "07e6e3bb-85a2-4a44-81ad-2c663b93b548",
+                "resourcePath": "objects\\obj_bullettime\\obj_bullettime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "460a32b5-8f89-43c8-9e71-0c2c942ee015",
             "Value": {
                 "id": "39a84ea7-6df1-493f-a3d9-763b3d05569b",
