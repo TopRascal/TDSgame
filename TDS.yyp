@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "5130581a-bba5-426f-a675-78c54ccddfa0",
+            "Value": {
+                "id": "db9e9861-1ddc-47ad-8631-ff1d49d6ebd1",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "516abd25-60b1-4993-a529-c750aa39e517",
             "Value": {
                 "id": "874fbc3f-cf73-4ca7-aabc-cc456fe86a0e",
@@ -300,6 +308,14 @@
                 "id": "628d67bd-05ca-4514-baa2-37ea3273a699",
                 "resourcePath": "sounds\\snd_shotgun_reload\\snd_shotgun_reload.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a7af087b-0e6a-4fdc-b1c8-a1653bea2528",
+            "Value": {
+                "id": "f951bbdd-e688-4969-908a-b6079cabbd85",
+                "resourcePath": "objects\\obj_spawnbutton\\obj_spawnbutton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
