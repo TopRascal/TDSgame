@@ -13,4 +13,6 @@ if shotgun_pickup = 0 {
 
 if shotgun_pickup = 1 {
 	image_index = 1;
+	pistol_pickup = 0;
+	smg_pickup = 0;
 }
