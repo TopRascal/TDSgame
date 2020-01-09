@@ -5,11 +5,11 @@ if shotgun_pickup = 1 {
 				audio_play_sound(snd_reload, 0, 0);
 			}
 	}
-}
-
-if shotgun_pumped = 0 {
+	if shotgun_pumped = 0 {
 	shotgun_pumped = 1;
 	audio_play_sound(snd_shotgun_reload, 0, 0);
+	}
+
 }
 
 if shotgun_mag > 5 {
