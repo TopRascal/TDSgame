@@ -5,7 +5,7 @@
     "name": "codetest",
     "eventList": [
         {
-            "id": "f0c0d3fc-aa02-4cd5-8c13-b3be908efc70",
+            "id": "8b23e078-6b74-42fa-8574-a5ab503f7307",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
