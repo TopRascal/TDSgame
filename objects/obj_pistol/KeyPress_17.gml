@@ -1,11 +1,15 @@
 ///@desc Spawn Bullet
 
+ldist = point_distance(obj_plr.x, obj_plr.y, mouse_x, mouse_y);
+
+accuracy = 30;
+
 if pistol_pickup = 1 {
 
 	if pistol_mag > 0 {
 	bullet = instance_create_layer(x,y, "Instances", obj_bullet);
 
-	bullet.direction = point_direction(x,y, mouse_x, mouse_y);
+	bullet.direction = point_direction(x, y, mouse_x + irandom_range(-ldist/accuracy, ldist/accuracy), mouse_y) + irandom_range(-ldist/accuracy, ldist/accuracy);
 	bullet.speed = 15;
 
 	audio_play_sound(snd_pistol, 0, 0);
