@@ -1,0 +1,1 @@
+global.playeraccuracy = 50;

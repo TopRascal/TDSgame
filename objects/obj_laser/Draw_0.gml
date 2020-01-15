@@ -6,4 +6,4 @@ draw_set_alpha(l72E7BDDD_0 / $ff);
 
 draw_line(obj_plr.x, obj_plr.y, mouse_x, mouse_y);
 
-draw_circle(mouse_x, mouse_y, ldist/8, 1);
+draw_circle(mouse_x, mouse_y, ldist*10/global.playeraccuracy, 1);
