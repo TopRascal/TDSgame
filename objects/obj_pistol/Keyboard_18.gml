@@ -8,7 +8,7 @@ if (l2A815286_0)
 	l4FF11AA4_0 = keyboard_check_pressed(ord("E"));
 	if (l4FF11AA4_0)
 	{
-		pistol_pickup = 0;
+		global.playerpickup = 0;
 		audio_play_sound(snd_pistol_pickup, 0, 0);
 	}
 }

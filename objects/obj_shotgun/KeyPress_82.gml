@@ -1,4 +1,4 @@
-if shotgun_pickup = 1 {
+if global.playerpickup = 3 {
 	if shotgun_pumped = 1 {
 		shotgun_mag = shotgun_mag + 1;
 			if shotgun_mag < 6 {

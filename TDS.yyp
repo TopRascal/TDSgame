@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "32128e98-ea0f-4eca-a44c-c7404c19709c",
-            "Value": {
-                "id": "8ee1b28f-b4ae-486f-ba3d-bcf0ddd0d08c",
-                "resourcePath": "objects\\obj_casing\\obj_casing.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "399677d3-6540-439a-b694-75ff46a3b203",
             "Value": {
                 "id": "1d7dbdad-708a-4512-aa0c-2a778e8e9e75",

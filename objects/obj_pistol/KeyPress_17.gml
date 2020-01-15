@@ -4,7 +4,7 @@ ldist = point_distance(obj_plr.x, obj_plr.y, mouse_x, mouse_y);
 
 global.playeraccuracy = 30;
 
-if pistol_pickup = 1 {
+if global.playerpickup = 1 {
 
 	if pistol_mag > 0 {
 	bullet = instance_create_layer(x,y, "Instances", obj_bullet);
@@ -23,7 +23,7 @@ var l336F1134_0;
 l336F1134_0 = keyboard_check_pressed(vk_control);
 if (l336F1134_0)
 {
-	if pistol_pickup = 1 {
+	if global.playerpickup = 1 {
 		if pistol_mag = 0 {
 		
 			audio_play_sound(snd_empty, 0, 0);	

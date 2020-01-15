@@ -2,9 +2,7 @@
 
 ldist = point_distance(obj_plr.x, obj_plr.y, mouse_x, mouse_y);
 
-accuracy = global.playeraccuracy; //Should be 15
-
-if shotgun_pickup = 1 {
+if global.playerpickup = 3 {
 
 	if shotgun_mag > 0 {
 		if shotgun_pumped = 1 {
@@ -50,7 +48,7 @@ if shotgun_pickup = 1 {
 
 }
 
-if shotgun_pickup = 1 {
+if global.playerpickup = 3 {
 	if shotgun_mag = 0 {
 		
 		audio_play_sound(snd_empty, 0, 0);	

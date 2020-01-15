@@ -1,4 +1,4 @@
-if smg_pickup = 1 {
+if global.playerpickup = 2 {
 
 draw_text(0, 0, string("Mag: ") + string(smg_mag));
 }
