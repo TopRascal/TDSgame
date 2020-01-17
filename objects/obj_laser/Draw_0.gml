@@ -10,4 +10,4 @@ draw_circle(mouse_x, mouse_y, ldist*10/global.playeraccuracy, 1);
 
 draw_text(mouse_x + 10, mouse_y - 10, string("Distance: ") + string(ldist));
 
-draw_text(mouse_x + 10, mouse_y - 20, string("Pickup: ") + string(global.playerpickup));
+draw_text(mouse_x + 10, mouse_y - 30, string("Pickup: ") + string(global.playerpickup));
